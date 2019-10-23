@@ -4,7 +4,7 @@ The To-Do app is a focus on using JavaScript to create a fluid interactable user
 
 ## Getting Started
 
-You can visit this application in the wild by clicking [here]. (https://todo-robert-adame.herokuapp.com/)
+You can visit this application in the wild by clicking [here.](https://todo-robert-adame.herokuapp.com/)
 
 ## Notable Languages, Systems and Gems Used
 
