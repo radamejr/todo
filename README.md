@@ -1,4 +1,5 @@
 # To-Do
+![todo](https://github.com/radamejr/todo/blob/master/app/assets/images/todo.PNG)
 
 The To-Do app is a focus on using JavaScript to create a fluid interactable user interface. 
 
